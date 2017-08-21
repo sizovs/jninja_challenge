@@ -30,3 +30,6 @@ In order to take over the world and beat competitors, we need the service that p
 - Push application to GitHub
 - Provide simple and concise setup instructions
 - Express major design decisions you have made on wiki
+
+### FAQ
+– there is no need in UI. Web API is the app's UI.
