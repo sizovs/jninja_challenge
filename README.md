@@ -24,7 +24,6 @@ In order to take over the world and beat competitors, we need the service that p
 - Link visits must appear in chronological order
 
 ### Other concerns
-- (optional) Likely there will be some generic infrastructural code. With VeriPacks, ensure that `infra` never references other layers such as `domain` and `application`
 - Demonstrate application usage with high-level acceptance tests
 - Make sure that both application and tests run in embedded mode. In other words, it must run on a laptop with nothing but Java and Docker installed
 - Push application to GitHub
