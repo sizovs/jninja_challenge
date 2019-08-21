@@ -14,7 +14,7 @@ In order to take over the world and beat competitors, we need the service that p
 
 ### 3) Ability to track link visits (time, ip address and country).
 - Country is resolved against some geo-encoding service such as `ip-api.com` or `freegeoip.net`
-- Implement protection against network latency with Resilience4j
+- Implement protection against network latency with `Failsafe`
 - Make sure that a link is eventually geo-encoded, even if geo-encoding service is slow or unresponsive during the link visit
 
 ### 4) Ability to get all shortened links via web api
